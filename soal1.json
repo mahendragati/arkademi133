@@ -1,0 +1,19 @@
+{
+    
+    "name" : "mahendra gati",
+    "address" : "Komplek Graha Jala Yudha Ciangsana",
+    "hobbies" : [ "swimming", "traveling"],
+    "is_married" : false,
+    "list_school" : {
+        "university" : "Universitas Brawijaya",
+        "year_in" : "2013",
+		"year_out" : "2018",
+		"major" : "Teknik Industri"
+    },
+    "skills" : {
+        "name" : "iot",
+        "score" : "beginner"
+    }
+	"interest_in_coding" : true,
+
+}
